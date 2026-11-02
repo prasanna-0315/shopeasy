@@ -1,0 +1,8 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 640 440" role="img" aria-label="Home and kitchen collection">
+  <defs><linearGradient id="bg" x2="1" y2="1"><stop stop-color="#f2eee1"/><stop offset="1" stop-color="#d9e3ce"/></linearGradient><linearGradient id="pot" x2="0" y2="1"><stop stop-color="#d98f5f"/><stop offset="1" stop-color="#b96742"/></linearGradient></defs>
+  <rect width="640" height="440" rx="36" fill="url(#bg)"/><circle cx="496" cy="81" r="54" fill="#fff" opacity=".4"/>
+  <path d="M180 190h280v148H180z" fill="#f8f5e9"/><path d="M160 180h320v20H160z" fill="#9eaa83"/><path d="M199 338v28m242-28v28" stroke="#8f7558" stroke-width="12" stroke-linecap="round"/>
+  <path d="M274 145c0-25 20-45 46-45s46 20 46 45v35h-92z" fill="url(#pot)"/><path d="M263 178h114l-8 71h-98z" fill="#e9b77f"/><path d="M277 192h85" stroke="#fff1d2" stroke-width="7" stroke-linecap="round"/><path d="M294 139c12-12 39-12 52 0" fill="none" stroke="#f4d3a7" stroke-width="5"/>
+  <path d="M202 228h40v80h-40z" fill="#8bb4a2"/><path d="M195 218h54v14h-54z" fill="#648d7c"/><path d="M208 239h28" stroke="#d9efe3" stroke-width="5" stroke-linecap="round"/>
+  <path d="M402 221h30v88h-30z" fill="#debd77"/><path d="M395 210h44v18h-44z" fill="#ae8755"/><path d="M417 199v-22" stroke="#ae8755" stroke-width="6" stroke-linecap="round"/><circle cx="417" cy="190" r="20" fill="#ffdf91"/>
+</svg>

@@ -1,0 +1,26 @@
+{
+  "version": "2.0.0",
+  "tasks": [
+    {
+      "label": "Maven: compile",
+      "type": "process",
+      "command": "${workspaceFolder}\\shopeasy\\mvnw.cmd",
+      "args": ["compile"],
+      "options": {
+        "cwd": "${workspaceFolder}\\shopeasy"
+      },
+      "problemMatcher": []
+    },
+    {
+      "label": "Spring Boot: run",
+      "type": "process",
+      "command": "${workspaceFolder}\\shopeasy\\mvnw.cmd",
+      "args": ["spring-boot:run"],
+      "options": {
+        "cwd": "${workspaceFolder}\\shopeasy"
+      },
+      "isBackground": true,
+      "problemMatcher": []
+    }
+  ]
+}

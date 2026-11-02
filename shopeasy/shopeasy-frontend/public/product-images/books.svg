@@ -1,0 +1,8 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 640 440" role="img" aria-label="Books collection">
+  <defs><linearGradient id="bg" x2="1" y2="1"><stop stop-color="#e7edf0"/><stop offset="1" stop-color="#c5d6dc"/></linearGradient></defs>
+  <rect width="640" height="440" rx="36" fill="url(#bg)"/><circle cx="501" cy="80" r="57" fill="#fff" opacity=".42"/>
+  <path d="M142 320h356v23H142z" fill="#947a5e"/><path d="M177 131h86v187h-86z" rx="7" fill="#377467"/><path d="M274 105h88v213h-88z" fill="#cb8357"/><path d="M373 146h91v172h-91z" fill="#4a6177"/>
+  <path d="M193 158h53m-53 13h43" stroke="#e5f1df" stroke-width="5" stroke-linecap="round"/><path d="M290 139h55m-55 14h43" stroke="#f6e5c4" stroke-width="5" stroke-linecap="round"/><path d="M390 171h55m-55 14h43" stroke="#dce8f1" stroke-width="5" stroke-linecap="round"/>
+  <path d="M215 260c12-19 31-19 43 0-12 19-31 19-43 0z" fill="#aad6bd"/><path d="M311 270h16m-8-25v51" stroke="#f1cf96" stroke-width="5" stroke-linecap="round"/><circle cx="419" cy="255" r="18" fill="#9fc6d1"/><path d="M398 289h43" stroke="#9fc6d1" stroke-width="5" stroke-linecap="round"/>
+  <path d="M154 344h325" stroke="#d7c2a8" stroke-width="4"/>
+</svg>

@@ -1,0 +1,7 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 640 440" role="img" aria-label="Electronics collection">
+  <defs><linearGradient id="bg" x2="1" y2="1"><stop stop-color="#e3f2ef"/><stop offset="1" stop-color="#b5d8d0"/></linearGradient><linearGradient id="screen" x2="0" y2="1"><stop stop-color="#253b42"/><stop offset="1" stop-color="#11232b"/></linearGradient></defs>
+  <rect width="640" height="440" rx="36" fill="url(#bg)"/><circle cx="500" cy="80" r="52" fill="#ffffff" opacity=".36"/>
+  <rect x="205" y="106" width="230" height="218" rx="28" fill="#f8fbf8"/><rect x="224" y="125" width="192" height="180" rx="18" fill="url(#screen)"/><circle cx="320" cy="214" r="53" fill="#6ec1ae" opacity=".9"/><circle cx="320" cy="214" r="31" fill="#d9f3e7"/><path d="M288 325h64l18 20H270z" fill="#748a86"/>
+  <rect x="105" y="212" width="56" height="112" rx="28" fill="#f8fbf8"/><rect x="116" y="223" width="34" height="90" rx="17" fill="#344c50"/><path d="M123 245h20" stroke="#90d5c3" stroke-width="5" stroke-linecap="round"/>
+  <rect x="482" y="185" width="57" height="136" rx="21" fill="#f7faf7"/><circle cx="511" cy="207" r="12" fill="#7bc9b7"/><path d="M499 240h24M499 259h24" stroke="#9bb5ad" stroke-width="6" stroke-linecap="round"/>
+</svg>

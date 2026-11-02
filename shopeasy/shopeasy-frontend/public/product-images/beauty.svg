@@ -1,0 +1,8 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 640 440" role="img" aria-label="Beauty collection">
+  <defs><linearGradient id="bg" x2="1" y2="1"><stop stop-color="#f5e6e9"/><stop offset="1" stop-color="#e7cbd4"/></linearGradient><linearGradient id="bottle" x2="0" y2="1"><stop stop-color="#d49aa5"/><stop offset="1" stop-color="#ad6878"/></linearGradient></defs>
+  <rect width="640" height="440" rx="36" fill="url(#bg)"/><circle cx="500" cy="76" r="56" fill="#fff" opacity=".38"/>
+  <rect x="175" y="166" width="98" height="174" rx="24" fill="url(#bottle)"/><rect x="198" y="131" width="52" height="42" rx="8" fill="#92717b"/><rect x="196" y="211" width="56" height="58" rx="10" fill="#f5e4dc"/><path d="M207 230h34m-34 14h25" stroke="#b37e83" stroke-width="5" stroke-linecap="round"/>
+  <rect x="293" y="194" width="92" height="146" rx="17" fill="#faf7ed"/><rect x="312" y="165" width="54" height="38" rx="8" fill="#d3ad79"/><rect x="313" y="232" width="52" height="52" rx="25" fill="#e9c2c8"/><path d="M322 255h34" stroke="#ad7582" stroke-width="5" stroke-linecap="round"/>
+  <path d="M436 223h61l-7 117h-47z" fill="#c6a5bd"/><path d="M447 201h39v24h-39z" fill="#837086"/><path d="M449 258h35" stroke="#f3e6ee" stroke-width="6" stroke-linecap="round"/>
+  <path d="M122 120c20-30 52-30 72 0-20 31-52 31-72 0z" fill="#fff" opacity=".54"/><circle cx="157" cy="120" r="8" fill="#fff" opacity=".9"/>
+</svg>
